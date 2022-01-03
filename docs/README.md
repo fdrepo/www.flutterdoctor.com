@@ -1,6 +1,6 @@
 
 ## www.flutterdoctor.com
-![alt text](https://github.com/fdrepo/www.flutterdoctor.com/blob/b2b0f8612856f2ab5fbbed6d3404fc1c6a8ee759/icons/1.png)
+![alt text](www.flutterdoctor.com/icons/2.png)
 
 # Our Vision, Mission, Target audience and Motivation 
 * Our Vision is Equality in education for all privileged or unprivileged by service.
