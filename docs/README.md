@@ -15,7 +15,5 @@
 * Service students: those who can give constructive feedback and help reflect products user experience back to developers.
 
 # Our Projects
-
- <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
- 
  ## [BCBR Q Bank](BCBR/BCBR_Q_Bank.md)
+  <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
