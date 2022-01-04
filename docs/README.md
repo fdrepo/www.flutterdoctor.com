@@ -1,5 +1,5 @@
 
-<img alt="flutter doctor logo" src="https://github.com/fdrepo/www.flutterdoctor.com/blob/main/icons/FdCBlue.png?raw=true" width="122">
+<img alt="flutter doctor logo" src="icons/FdCBlue.png" width="122">
 
 ## 
 # Our vision, mission, target & motivation 
@@ -16,4 +16,6 @@
 
 # Our Projects
   
-  <img alt="BCBR Q Bank logo" src="https://github.com/fdrepo/www.flutterdoctor.com/blob/main/icons/BCBRCBlue.png?" width="122">[BCBR_Q_Bank](docs/BCBR/BCBR_Q_Bank.md)
+ <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
+  
+  ## [BCBR Q Bank](docs/BCBR/BCBR_Q_Bank.md)
