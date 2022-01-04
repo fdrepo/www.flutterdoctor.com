@@ -15,4 +15,4 @@
 * Service students: those who can give constructive feedback and help reflect products user experience back to developers.
 
 # Our Projects
-* [[BCBR_Q_Bank]]
+* [BCBR_Q_Bank](BCBR_Q_Bank.md)
