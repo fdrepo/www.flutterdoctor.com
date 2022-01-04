@@ -1,7 +1,7 @@
 
 ## www.flutterdoctor.com
 
-<img alt="logo of docsify-awesome repository" src="https://user-images.githubusercontent.com/7565692/35311593-3edd9102-00f2-11e8-98fb-38be1d0e650f.png" width="122">
+<img alt="logo of docsify-awesome repository" src="https://github.com/fdrepo/www.flutterdoctor.com/blob/466767fc9a8917c94f728bb1e72bedb179d38af2/icons/BCBRCBlue.png" width="122">
 # Our Vision, Mission, Target audience and Motivation 
 * Our Vision is Equality in education for all privileged or unprivileged by service.
 * Our Mission is open-source application which will run on Android and iOS. 
