@@ -3,6 +3,8 @@
 
 <img src="https://github.com/fdrepo/www.flutterdoctor.com/blob/main/icons/1.png" width="100">
 
+<img src="https://cdn.jsdelivr.net/gh/docsifyjs/docsify/docs/_media/vercel_logo.svg" width="100px">
+
 # Our Vision, Mission, Target audience and Motivation 
 * Our Vision is Equality in education for all privileged or unprivileged by service.
 * Our Mission is open-source application which will run on Android and iOS. 
