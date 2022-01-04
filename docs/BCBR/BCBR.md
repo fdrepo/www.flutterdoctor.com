@@ -6,4 +6,4 @@
 * 2 steps after registaration 
 	* Complete the assignment with > 50% marks 
 	* Complete the final exam with > 50% marks
-* [BCBR Q Bank](BCBR_Q_Bank.md) gives an overview of all possible question and high yield questions. 
+* [BCBR Q Bank](docs/BCBR/BCBR_Q_Bank.md) gives an overview of all possible question and high yield questions. 

@@ -15,4 +15,4 @@
 * Service students: those who can give constructive feedback and help reflect products user experience back to developers.
 
 # Our Projects
-* [BCBR_Q_Bank](BCBR_Q_Bank.md)
+* <img alt="BCBR Q Bank logo" src="https://github.com/fdrepo/www.flutterdoctor.com/blob/main/icons/BCBRCBlue.png?" width="122">[BCBR_Q_Bank](docs/BCBR/BCBR_Q_Bank.md)
