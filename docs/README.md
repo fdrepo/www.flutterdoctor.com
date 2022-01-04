@@ -18,4 +18,4 @@
 
  <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
  
- ## [BCBR Q Bank](docs/BCBR/BCBR_Q_Bank.md)
+ ## [BCBR Q Bank](BCBR/BCBR_Q_Bank.md)
