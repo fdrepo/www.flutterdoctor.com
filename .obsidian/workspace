@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "docs/BCBR Q Bank.md",
             "mode": "preview",
             "source": true
           }
@@ -99,9 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c2d62fdc9d5c8b7",
+  "active": "3573fcad2c8e1e18",
   "lastOpenFiles": [
     "docs/README.md",
+    "docs/BCBR Q Bank.md",
+    "docs/BCBR.md",
     "docs/courses/BCBR Q Bank.md",
     "docs/courses/BCBR.md",
     "icons/FdCBlue.png",
