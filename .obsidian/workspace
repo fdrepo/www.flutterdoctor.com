@@ -9,9 +9,21 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/README.md",
+            "file": "courses/BCBR Q Bank.md",
             "mode": "source",
-            "source": false
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "d4c0d98685a00565",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "courses/BCBR Q Bank.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
+                "file": "courses/BCBR Q Bank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +101,12 @@
   },
   "active": "3573fcad2c8e1e18",
   "lastOpenFiles": [
-    "docs/README.md",
-    "icons/BCBRCBlue.png",
+    "courses/BCBR Q Bank.md",
+    "courses/BCBR.md",
     "icons/FdCBlue.png",
-    "icons/dCBlue.png"
+    "icons/dSBlue.png",
+    "icons/dCBlue.png",
+    "icons/BCBRCBlue.png",
+    "docs/README.md"
   ]
 }
