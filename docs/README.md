@@ -17,9 +17,9 @@
 * Our motivation is instilling scientific acumen in medical students, above subjects are primary enquiry to science in medicine, we believe that a doctor should not just following guidelines but also need to have critical evaluation skills to bring slow but progressive changes in system. 
 
 # Our 4 pillars of existance
-* [Service developers]: developers will be invited to work on code based on its open-source status, all source-codes will be open sourced in GitHub who work for such social applications and hence we are looking forward to such developers contributing to the open-source codebase. 
-* [Service doctors]: those who can contribute to the content, the content will be accessible by all users of app. 
-* [Service educators]: those who can contribute to queries and brainstorming sessions to design app based on education principles. 
-* [Service students]: those who can give constructive feedback and help reflect products user experience back to developers.
+* [Service developers](): developers will be invited to work on code based on its open-source status, all source-codes will be open sourced in GitHub who work for such social applications and hence we are looking forward to such developers contributing to the open-source codebase. 
+* [Service doctors](): those who can contribute to the content, the content will be accessible by all users of app. 
+* [Service educators](): those who can contribute to queries and brainstorming sessions to design app based on education principles. 
+* [Service students](): those who can give constructive feedback and help reflect products user experience back to developers.
 
 
