@@ -15,8 +15,8 @@
 # Our 4 pillars of existence
 * [Service developers](): those who can contribute to codebase, all source-codes will be open-sourced in GitHub.  
 * [Service doctors](): those who can contribute to the content, the content will be accessible by all users of app. 
-* [Service educators](): those who can contribute to queries and brainstorming sessions to design app based on education principles. 
-* [Service students](): those who can give constructive feedback and help reflect products user experience back to developers.
+* [Service educators](): those who can contribute to content and be a guide for students for using the app. 
+* [Service students](): those who can give constructive feedback and help reflect products experience back to developers.
 
 # Our Sponsors
 <img alt="flutter doctor logo" src="logos/SponSIMATS.png" width="100">
