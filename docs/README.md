@@ -1,7 +1,6 @@
 
 <img alt="flutter doctor logo" src="icons/FdCBlue.png" width="122">
 
-## 
 # Our Projects
  ## [BCBR Q Bank](BCBR/BCBR_Q_Bank.md)
   <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
