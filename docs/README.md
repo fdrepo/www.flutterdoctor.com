@@ -1,5 +1,5 @@
 
-## <p align="center"><img alt="flutter doctor logo" src="logos/FdCBlue.png" width="122"></p>
+## <p align="center"><img alt="flutter doctor logo" src="logos/FdCBlue.png" width="100"></p>
 
 ##
 # Our Projects
@@ -8,7 +8,7 @@
   
 
   # Our Sponsors
-
+<img alt="flutter doctor logo" src="logos/SponSIMATS.png" width="100">
 
 # Our vision, mission, target & motivation 
 * Our Vision is Equality in education for all privileged or unprivileged by service.
