@@ -1,9 +1,9 @@
 
-## <p align="center"><img alt="flutter doctor logo" src="icons/FdCBlue.png" width="122"></p>
+## <p align="center"><img alt="flutter doctor logo" src="logos/FdCBlue.png" width="122"></p>
 
 ##
 # Our Projects
- [<img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
+ [<img alt="flutter doctor logo" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
 
   
 
