@@ -2,6 +2,10 @@
 <img alt="flutter doctor logo" src="icons/FdCBlue.png" width="122">
 
 ## 
+# Our Projects
+ ## [BCBR Q Bank](BCBR/BCBR_Q_Bank.md)
+  <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
+
 # Our vision, mission, target & motivation 
 * Our Vision is Equality in education for all privileged or unprivileged by service.
 * Our Mission is open-source application which will run on Android and iOS. 
@@ -14,6 +18,5 @@
 * Service educators: those who can contribute to queries and brainstorming sessions to design app based on education principles. 
 * Service students: those who can give constructive feedback and help reflect products user experience back to developers.
 
-# Our Projects
- ## [BCBR Q Bank](BCBR/BCBR_Q_Bank.md)
-  <img alt="flutter doctor logo" src="icons/BCBRCBlue.png" width="122">
+
+# Our Sponsors
