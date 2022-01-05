@@ -1,33 +1,29 @@
 {
   "main": {
-    "id": "d222248e267f46fe",
+    "id": "9d17030d5cb97e78",
     "type": "split",
     "children": [
       {
-        "id": "692eae0a65822146",
+        "id": "0d45eb085e1d30ab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "docs/README.md",
-            "mode": "source",
-            "backlinks": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e5dc9f90e9fa48d9",
+    "id": "93538bd4e3421554",
     "type": "split",
     "children": [
       {
-        "id": "3a91baf5794aa3f6",
+        "id": "318c09be9be5fbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "467e0d2a11c362dc",
+            "id": "67d100b320ce7f5a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +31,12 @@
             }
           },
           {
-            "id": "c23d4835e6c661fd",
+            "id": "edcfe259fb45ca9b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Service developers\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,28 +45,26 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "ce0ee6825b992f16",
+    "id": "dfe3cc1f92ce41ed",
     "type": "split",
     "children": [
       {
-        "id": "ad1b0c3dd9f0bc89",
+        "id": "8edcf49a95c5767e",
         "type": "tabs",
         "children": [
           {
-            "id": "cda227dc759b9cb5",
+            "id": "148d4f29833c098f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "692eae0a65822146",
-  "lastOpenFiles": [
-    "docs/README.md",
-    "docs/Service developers.md",
-    "docs/BCBR/BCBR_Q_Bank.md",
-    "docs/BCBR/BCBR.md"
-  ]
+  "active": "0d45eb085e1d30ab",
+  "lastOpenFiles": []
 }
