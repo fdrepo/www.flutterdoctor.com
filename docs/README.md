@@ -3,7 +3,7 @@
 
 ##
 # Our Projects
- [<img alt="flutter doctor logo" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
+ [<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
 
   
 # Our vision, mission, target & motivation 
