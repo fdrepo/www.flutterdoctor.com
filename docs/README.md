@@ -18,5 +18,12 @@
 * [Service educators](): those who can contribute to content and be a guide for students for using the app. 
 * [Service students](): those who can give constructive feedback and help reflect products experience back to developers.
 
+# Some of out Buzz-Words in Design 
+* Minimalism as much as possible.
+* Domain and Test Driven Design as much as possible.
+* Immutable and Reactive Design as much as possible.
+* Cognitive Balance and Constructivism as much as possible.
+
+
 # Our Sponsors
 <img alt="flutter doctor logo" src="logos/SponSIMATS.png" width="100">
