@@ -19,7 +19,7 @@
 * [Students](): those who can give feedback, you are the constant change. 
 
 # Design Principles 
-* Minimalism.
+* Minimalism with Collaboration. 
 * Domain and Test Driven.
 * Immutable and Reactive.
 * Less Hierarchy, More Tags.
