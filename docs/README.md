@@ -19,11 +19,11 @@
 * [Service students](): those who can give constructive feedback and help reflect products experience back to developers.
 
 # Our Design Principles 
-* Minimalism as much as possible.
-* Domain and Test Driven Design as much as possible.
-* Immutable and Reactive Design as much as possible.
-* Less Hierarchy, More Tags as much as possible.
-* Cognitive Balance and Constructivism as much as possible.
+* Minimalism AMAP.
+* Domain and Test Driven AMAP.
+* Immutable and Reactive AMAP.
+* Less Hierarchy, More Tags AMAP.
+* Cognitive Balance and Constructivism AMAP.
 
 
 # Our Sponsors
