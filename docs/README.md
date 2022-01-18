@@ -23,7 +23,7 @@
 * Domain and Test Driven AMAP.
 * Immutable and Reactive AMAP.
 * Less Hierarchy, More Tags AMAP.
-* Cognitive Balance and Constructivism AMAP.
+* Ideal Cognitive Load and Constructivism AMAP.
 
 
 # Our Sponsors
