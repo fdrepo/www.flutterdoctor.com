@@ -20,10 +20,10 @@
 
 # Design Principles 
 * Minimalism with Collaboration. 
-* Domain and Test Driven.
+* Domain Driven and Test Driven.
 * Immutable and Reactive.
-* Less Hierarchy, More Tags.
-* Ideal Cognitive Load and Constructivism.
+* Less Hierarchy and More Tags.
+* Optimal Cognitive Load and Constructivism.
 
 
 # Sponsors
