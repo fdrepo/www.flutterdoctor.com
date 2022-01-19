@@ -14,22 +14,23 @@
 
 ```mermaid
 sequenceDiagram
-    participant ODB as Online DB
-    participant A as OTP Auth
-    participant LDB as Local DB
-    participant U as User
-    participant Set as Settings
-    participant B as Bookmarks
-    participant P as Pinned to Board
-    participant MCQ as Choice Question
-    A->>U: Get UID
-    U->>LDB: Set UID in LDB
-    U->>ODB: Set UID in OBD 
-    ODB->>U: Old Settings / never set (null) 
-    U->>LDB: Set Old Setting / never set (null)
-    LDB->>Set: Theme Selected
-    LDB->>B: BookMarked MCQ
-    LDB->>P: Pinned Settings
+    participant OLCDB as Common table
+        Note left of OLCDB: IMMUTABLE (S3 Bucket Link)
+        Note left of OLCDB: uniqueMCQ<UMCQID:Question<String>>
+        Note left of OLCDB: uniqueMCQOptions<UMCQID:Options<String:Bool>>
+        Note left of OLCDB: uniqueTagsSet<UMCQID:Set<Tag>>
+        Note left of OLCDB: uniqueFactoidTweet<UMCQID:List<UFaT>>
+        Note left of OLCDB: uniqueTags<Set<Tag>>
+        Note right of OLCDB: MUTATING
+        Note right of OLCDB: checkUserTags<UUMCQID:List<Tags>>
+        Note right of OLCDB: uniqueFactoidTweet<UUMCQID:List<UFaT>>
+    participant OLUDB as USER table
+        Note right of OLUDB: USER DATA MUTATING
+        Note right of OLUDB: uniqueUserID<mobileNumber>
+        Note right of OLUDB: uniqueUserName<UUID,UserName>
+        Note right of OLUDB: uniqueUserUUMCQID<CONCAT(UUID+MCQID)>
+        Note right of OLUDB: uniqueBookMarks<UUMCQID<List<UUMCQID>>>
+        Note right of OLUDB: uniquePinnedSettingsUUID<<List<namedSetting>>>
 ```
 
 [<< go back to F.d. home](README.md)
