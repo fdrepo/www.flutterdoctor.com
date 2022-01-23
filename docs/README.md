@@ -22,7 +22,7 @@
 * Minimalism with Collaboration. 
 * Domain Driven and Test Driven.
 * Immutable and Reactive.
-* Less Hierarchy and More Tags.
+* Composition and Functional.
 * Optimal Cognitive Load and Constructivism.
 
 
