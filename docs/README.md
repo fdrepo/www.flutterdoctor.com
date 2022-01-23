@@ -15,7 +15,7 @@
 # 4 pillars of existence
 * [Developers](): those who makes it a reality, all source-codes will be open-sourced in GitHub  
 * [Doctors](): those who makes it useful, the content will be accessible by all users of app for free. 
-* [Educators](): those who can make it engaging, all credits to you.
+* [Educators](): those who makes it engaging and sustainable, you are controllers of change.
 * [Students](): those who can give feedback, you are the constant change. 
 
 # Design Principles 
