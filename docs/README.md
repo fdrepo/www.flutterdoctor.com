@@ -4,12 +4,12 @@
 ##
 # Our Projects
  [<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
- - Question Bank on Basic Course in BioMedical Research  
- - Accompanied by a Book, Download BCBR Brief Book from Amazon Book Store. 
+ - Question Bank App: MCQ Questions on Basic Course in BioMedical Research.  
+ - Book: Download BCBR Brief by flutterdoctor from Amazon Book Store. 
  
  
  [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
- - 
+ - TimeTable : Helper App for making CBME TimeTable
 
   
 # Vision, mission, target & motivation 
