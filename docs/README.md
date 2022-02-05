@@ -4,8 +4,8 @@
 ##
 # Our Projects
  [<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
- - Basic Course in BioMedical Research Prepration 
- - A Book is also published by fd's BCBR Brief in Amazon Book Store 
+ - Question Bank on Basic Course in BioMedical Research  
+ - Accompanied by a Book, Download BCBR Brief Book from Amazon Book Store. 
  
  
  [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
