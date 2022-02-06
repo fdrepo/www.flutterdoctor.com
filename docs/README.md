@@ -2,16 +2,15 @@
 
 # Our Projects
 
- >[<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
- ### [BCBR Question Bank App](BCBR/BCBR_Q_Bank.md)
- - Get Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research", Download from Android PlayStore and Apple AppStore  
- - Get Book: Download "BCBR Brief" by flutterdoctor from amazon book store. 
- # 
+>[<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
+### [BCBR Question Bank App](BCBR/BCBR_Q_Bank.md)
+- Get Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research", Download from Android PlayStore and Apple AppStore  
+- Get Book: Download "BCBR Brief" by flutterdoctor from amazon book store. 
  
- >[<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
- ### [CBME TimeTable App]()
- - TimeTable : Helper App for making CBME TimeTable and sharing it as PDF file.
- # 
+ 
+>[<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
+### [CBME TimeTable App]()
+- TimeTable : Helper App for making CBME TimeTable and sharing it as PDF file.
  
 ---
 # About Us
