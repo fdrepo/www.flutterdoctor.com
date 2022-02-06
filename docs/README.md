@@ -13,7 +13,7 @@
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
 ### [CBME Align App]()
-- Align Subjects : Helps map subjects to each other from competency.
+- Align Subjects : Helps map one subjects toanother subject.
  
 ---
 # About Us
