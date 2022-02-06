@@ -16,7 +16,7 @@
 - Align Subjects : Helps map one subjects toanother subject.
  
 ---
-# About Us
+# <p align="center">About Us
 ### Vision, mission, target & motivation 
 * [Vision](): Equality in education for all privileged or unprivileged by service.
 * [Mission](): Open-source application which will run on Android and iOS. 
@@ -36,5 +36,5 @@
 * Optimal Cognitive Load and Constructivism.
 
 ---
-# Sponsors
+# <p align="center">Sponsors
 <img alt="flutter doctor logo" src="logos/SponSIMATS.png" width="100">
