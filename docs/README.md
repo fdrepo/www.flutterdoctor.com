@@ -1,4 +1,4 @@
-## <p align="center"><img alt="FlutterDoctor.com" src="logos/FdCBlue.png" width="70"></p>
+#<p align="center"><img alt="FlutterDoctor.com" src="logos/FdCBlue.png" width="70"></p>
 ---
 # Our Projects
 
