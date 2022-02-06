@@ -11,7 +11,7 @@
  
  # [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
  - [CBME TimeTable App]()
- - TimeTable : Helper App for making CBME TimeTable
+ - TimeTable : Helper App for making CBME TimeTable and sharing it as PDF file.
  # 
  
 
