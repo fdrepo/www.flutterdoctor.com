@@ -12,8 +12,8 @@
 - TimeTable : Helper App for making CBME TimeTable and sharing it as file.
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
-### [CBME TimeTable App]()
-- Align Subject : Helps map subjects to each other from competency.
+### [CBME Align App]()
+- Align Subjects : Helps map subjects to each other from competency.
  
 ---
 # About Us
