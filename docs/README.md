@@ -26,9 +26,8 @@
 
 # Design Principles 
 * Minimalism with Collaboration. 
-* Domain Driven and Test Driven.
-* Immutable and Reactive.
-* Composition and Functional.
+* Domain and Test Driven.
+* Immutable and Functional.
 * Optimal Cognitive Load and Constructivism.
 
 
