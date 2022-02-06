@@ -13,10 +13,10 @@
 
   
 # Vision, mission, target & motivation 
-* Vision: Equality in education for all privileged or unprivileged by service.
-* Mission: Open-source application which will run on Android and iOS. 
-* Target audience: Students, teachers, and researchers with clinical orientation. 
-* Motivation: Building scientific acumen in medical students, teachers and researchers. And to have critical evaluation skills, which will accelarate change in medical system. 
+* [Vision](): Equality in education for all privileged or unprivileged by service.
+* [Mission](): Open-source application which will run on Android and iOS. 
+* [Target audience](): Students, teachers, and researchers with clinical orientation. 
+* [Motivation](): Building scientific acumen in medical students, teachers and researchers. And to have critical evaluation skills, which will accelarate change in medical system. 
 
 # 4 pillars of existence
 * [Developers](): those who makes it a reality, all source-codes will be open-sourced in GitHub  
