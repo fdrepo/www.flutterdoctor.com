@@ -10,7 +10,14 @@
 # Apps
 [BCBR Q Bank](https://github.com/fdrepo/flutterdoctor.com/blob/0ae8871898c3ac858bf4b86bc87185797398ae48/docs/BCBR/BCBR_Q_Bank.md)
 
-
+# WHy BCBR Course is Important
+* Course taken by IIT Madras 
+* Mandatory for all PostGraduates
+* Gives an overview of Biomedical Research 
+* 2 steps after registaration 
+	* Complete the assignment with > 50% marks 
+	* Complete the final exam with > 50% marks
+* [BCBR Q Bank](BCBR/BCBR_Q_Bank.md) gives an overview of all possible question and high yield questions. 
 
 
 
