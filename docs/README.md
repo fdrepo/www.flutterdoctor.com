@@ -4,16 +4,21 @@
 ---
 [<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
 ### [BCBR App & Book](BCBR/BCBR_Q_Bank.md)
-- Get Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research", Download from Android PlayStore and Apple AppStore  
+- Get Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research", 
+- App from Android PlayStore and Apple AppStore  
 - Get Book: Download "BCBR Brief" by flutterdoctor from amazon book store. 
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
 ### [CBME TimeTable App]()
-- TimeTable : Helper App for making CBME TimeTable and sharing it as file.
+- Viewer for Align CBME App, Mainly for students
+- Android PlayStore and Apple AppStore.  
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
 ### [CBME Align App]()
-- Align Subjects : Helps map one subjects toanother subject.
+- For Teachers and cordinators to align and edit timetable. 
+- Align Subjects : Helps map one subjects to another subject.
+- Sort Subjects : Fit already aligned subjects to timetable.
+- Online App.
  
 ---
 # <p align="center">About Us
