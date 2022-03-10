@@ -10,30 +10,7 @@
 # Apps
 [BCBR Q Bank](https://github.com/fdrepo/flutterdoctor.com/blob/0ae8871898c3ac858bf4b86bc87185797398ae48/docs/BCBR/BCBR_Q_Bank.md)
 
-# CloudDB Design
 
-```mermaid
-sequenceDiagram
-    participant OLCDB as Common table
-        Note left of OLCDB: IMMUTABLE (S3 Bucket Link)
-        Note left of OLCDB: uniqueMCQ<UMCQID:Question<String>>
-        Note left of OLCDB: uniqueMCQOptions<UMCQID:Options<String:Bool>>
-        Note left of OLCDB: uniqueTagsSet<UMCQID:Set<Tag>>
-        Note left of OLCDB: uniqueFactoidTweet<UMCQID:List<UFaT>>
-        Note left of OLCDB: uniqueTags<Set<Tag>>
-        Note right of OLCDB: MUTATING
-        Note right of OLCDB: checkUserTags<UUMCQID:List<Tags>>
-        Note right of OLCDB: uniqueFactoidTweet<UUMCQID:List<UFaT>>
-    participant OLUDB as USER table
-        Note right of OLUDB: USER DATA MUTATING
-        Note right of OLUDB: uniqueUserID<mobileNumber>
-        Note right of OLUDB: uniqueUserName<UUID,UserName>
-        Note right of OLUDB: uniqueUserUUMCQID<CONCAT(UUID+MCQID)>
-        Note right of OLUDB: uniqueBookMarks<UUMCQID<List<UUMCQID>>>
-        Note right of OLUDB: uniquePinnedSettingsUUID<<List<namedSetting>>>
-```
-
-# M-MV Design
 
 
 
