@@ -6,7 +6,7 @@
 ### [BCBR App & Book](BCBR/BCBR_Q_Bank.md)
 - [Question Bank App](): MCQ Questions bank app on "Basic Course in BioMedical Research".
 - [Download](): From [Android "Play Store"]() and [Apple "App Store"](). 
-- [Get Book]: Download "BCBR Brief" by flutterdoctor from [Amazon Book Store]. 
+- [Get Book](): Download "BCBR Brief" by flutterdoctor from [Amazon Book Store](). 
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
 ### [CBME TimeTable App]()
@@ -15,10 +15,10 @@
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
 ### [CBME Align App]()
-- For Teachers: To Align and Edit Competencies. 
-- Align Subjects: Helps map one subjects to another subject.
-- Sort Subjects: Fit already aligned subjects to timetable.
-- Online: Only Online App.
+- [For Teachers](): To Align and Edit Competencies. 
+- [Align Subjects](): Helps map one subjects to another subject.
+- [Sort Subjects](): Fit already aligned subjects to timetable.
+- [Online](): Only Online [Align App]().
  
 ---
 # <p align="center">About Us
