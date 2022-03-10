@@ -4,14 +4,14 @@
 ---
 [<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
 ### [BCBR App & Book](BCBR/BCBR_Q_Bank.md)
-- Get Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research", 
-- Download: Android "Play Store" and Android "App Store". 
-- Get Book: Download "BCBR Brief" by flutterdoctor from amazon book store. 
+- [Question Bank App](): MCQ Questions bank app on "Basic Course in BioMedical Research".
+- [Download](): From [Android "Play Store"]() and [Apple "App Store"](). 
+- [Get Book]: Download "BCBR Brief" by flutterdoctor from [Amazon Book Store]. 
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
 ### [CBME TimeTable App]()
-- For Students: To View "CBME Align" edited timetable.
-- Download: Android "Play Store" and Android "App Store".  
+- [For Students](): To View "CBME Align" edited timetable.
+- [Download](): From [Android "Play Store"]() and [Apple "App Store"]().  
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
 ### [CBME Align App]()
