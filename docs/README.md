@@ -18,7 +18,7 @@
 - [For Teachers](): To Align and Edit Competencies. 
 - [Align Subjects](): Helps map one subjects to another subject.
 - [Sort Subjects](): Fit already aligned subjects to timetable.
-- [Online](): Only Online for ease of Colloboration.
+- [Online App](): Only Online for ease of Colloboration.
  
 ---
 # <p align="center">About Us
