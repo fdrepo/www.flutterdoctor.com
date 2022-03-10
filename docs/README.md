@@ -11,14 +11,14 @@
 [<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.png" width="122">]()
 ### [CBME TimeTable App]()
 - For Students: To View "CBME Align" edited timetable.
-- Android "Play Store" and Android "App Store".  
+- Mobile: Android "Play Store" and Android "App Store".  
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.png" width="122">]()
 ### [CBME Align App]()
 - For Teachers: To Align and Edit Competencies. 
 - Align Subjects: Helps map one subjects to another subject.
 - Sort Subjects: Fit already aligned subjects to timetable.
-- Only Online App.
+- Online: Only Online App.
  
 ---
 # <p align="center">About Us
