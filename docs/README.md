@@ -2,8 +2,8 @@
 ---
 # <p align="center">Our Projects
 ---
-[<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">](BCBR/BCBR_Q_Bank.md)
-### [BCBR App & Book](BCBR/BCBR_Q_Bank.md)
+[<img alt="FlutterDoctor.com" src="logos/BCBRCBlue.png" width="122">]()
+### [BCBR App & Book]()
 - [Question Bank App](): MCQ Questions bank app on "Basic Course in BioMedical Research".
 - [Download](): From [Android "Play Store"]() and [Apple "App Store"](). 
 - [Get Book](): Download "BCBR Brief" by flutterdoctor from [Amazon Book Store](). 
