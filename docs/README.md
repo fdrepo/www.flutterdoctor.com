@@ -8,7 +8,7 @@
 - [Download](): From [Android "Play Store"]() and [Apple "App Store"](). 
 - [Get Book](): Download "BCBR Brief" by flutterdoctor from [Amazon Book Store](). 
 ---
-[<img alt="FlutterDoctor.com" src="logos/CBMETimeTable.svg" width="122">]()
+[<img alt="FlutterDoctor.com" src="logos/CBMETImeTable.svg" width="122">]()
 ### [CBME TimeTable App]()
 - [For Students](): To View "CBME Align" edited timetable.
 - [Download](): From [Android "Play Store"]() and [Apple "App Store"]().  
