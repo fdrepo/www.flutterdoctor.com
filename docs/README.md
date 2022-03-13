@@ -1,8 +1,8 @@
-# <p align="center"><img alt="FlutterDoctor.com" src="logos/FdCBlue.png" width="70"></p>
+# <p align="center"><img alt="FlutterDoctor.com" src="logos/FlutterDoctor.svg" width="70"></p>
 ---
 # <p align="center">Our Projects
 ---
-[<img alt="FlutterDoctor.com" src="logos/FlutterDoctor.svg" width="122">]()
+[<img alt="FlutterDoctor.com" src="logos/BCBRQ.svg" width="122">]()
 ### [BCBR App & Book]()
 - [Question Bank App](): MCQ Questions bank app on "Basic Course in BioMedical Research".
 - [Download](): From [Android "Play Store"]() and [Apple "App Store"](). 
