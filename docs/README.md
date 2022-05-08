@@ -13,7 +13,7 @@
 ### CBME TimeTable App
 - Project On Works "10%" 
 - For Students: To View "CBME Align" edited timetable.
-- Download: From [Android "Play Store"]() and [Apple "App Store ".
+- Download: Android "Play Store" and Apple "App Store ".
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.svg" width="122">]()
 ### [CBME Align App]()
