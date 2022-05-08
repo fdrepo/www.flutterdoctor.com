@@ -3,7 +3,7 @@
 # <p align="center">Our Projects
 ---
 [<img alt="FlutterDoctor.com" src="logos/BCBRQ.svg" width="122">]()
-### [BCBR App & Book]()
+### BCBR App & Book
 - Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research".
 - [Download](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr): [Android "Play Store"](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr) 
 - [Download](): [Apple "App Store"](). "90%" 
@@ -16,7 +16,7 @@
 - Download: Android "Play Store" and Apple "App Store ".
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.svg" width="122">]()
-### [CBME Align App]()
+### CBME Align App
 - Project Yet to Start "0%" 
 - For Teachers: To Align & Edit Competencies. 
 - Align Subjects: Helps map one subjects to another subject.
