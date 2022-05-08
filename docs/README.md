@@ -5,23 +5,23 @@
 [<img alt="FlutterDoctor.com" src="logos/BCBRQ.svg" width="122">]()
 ### [BCBR App & Book]()
 - Question Bank App: MCQ Questions bank app on "Basic Course in BioMedical Research".
-- [Download](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr): From [Android "Play Store"](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr) 
+- [Download](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr): [Android "Play Store"](https://play.google.com/store/apps/details?id=com.flutterdoctor.fd_bcbr) 
 - [Download](): [Apple "App Store"](). "90%" 
-- [Get Book](): Download "BCBR Brief" by flutterdoctor from [Amazon Book Store](). "60%" 
+- Get Book: Download "BCBR Brief" by flutterdoctor from [Amazon Book Store. "60%" 
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMETImeTable.svg" width="122">]()
-### [CBME TimeTable App]()
+### CBME TimeTable App
 - Project On Works "10%" 
-- [For Students](): To View "CBME Align" edited timetable.
-- [Download](): From [Android "Play Store"]() and [Apple "App Store"]().  
+- For Students: To View "CBME Align" edited timetable.
+- Download: From [Android "Play Store"]() and [Apple "App Store ".
 ---
 [<img alt="FlutterDoctor.com" src="logos/CBMEAlign.svg" width="122">]()
 ### [CBME Align App]()
 - Project Yet to Start "0%" 
-- [For Teachers](): To Align and Edit Competencies. 
-- [Align Subjects](): Helps map one subjects to another subject.
-- [Sort Subjects](): Fit already aligned subjects to timetable.
-- [Online App](): Only Online for ease of Colloboration.
+- For Teachers: To Align & Edit Competencies. 
+- Align Subjects: Helps map one subjects to another subject.
+- Sort Subjects: Fit already aligned subjects to timetable.
+- Online App: Only Online for ease of Colloboration.
  
 ---
 # <p align="center">About Us
